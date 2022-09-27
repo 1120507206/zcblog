@@ -12,7 +12,7 @@
 </p>
 
 <h2 align="center">vuepress-theme-vdoing</h2>
-
+[预览地址]https://1120507206.github.io/zcblog/
  [文档](https://doc.xugaoyi.com/)  |
  [效果](https://xugaoyi.com/)  |
  [本仓库的gitee镜像](https://gitee.com/xugaoyi/vuepress-theme-vdoing)

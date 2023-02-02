@@ -7,7 +7,7 @@
   <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/actions?query=workflow%3ACI"><img src="https://github.com/xugaoyi/vuepress-theme-vdoing/workflows/CI/badge.svg" alt="CI"></a>
   <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/actions?query=workflow%3AbaiduPush"><img src="https://github.com/xugaoyi/vuepress-theme-vdoing/workflows/baiduPush/badge.svg" alt="baiduPush"></a>
 
- 
+
 
 </p>
 
@@ -23,6 +23,7 @@
 2. 轻松构建一个`结构化`的知识库，让你的知识海洋像一本本书一样清晰易读。
 3. 博客功能提供一种知识的`碎片化`形态，并支持个性化博客配置。
 4. `简洁高效`，以 Markdown 为中心的项目结构。内置自动化工具，以更少的配置完成更多的事。配合多维索引快速定位每个知识点。
+4. 测试github在线修改是否能更新成功。
 
 [**更新日志**](https://github.com/xugaoyi/vuepress-theme-vdoing/releases)
 

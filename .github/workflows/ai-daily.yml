@@ -1,0 +1,69 @@
+name: AI Daily Post
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  generate-ai-post:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate AI post
+        run: |
+          node utils/generateAiDailyPost.js
+          node utils/generateSidebar.js
+
+      - name: Commit source changes
+        id: commit_source
+        run: |
+          if git diff --quiet; then
+            echo "No new AI post generated."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/ utils/generateAiDailyPost.js .github/workflows/ai-daily.yml
+          git commit -m "chore: add daily AI post"
+          git push
+
+      - name: Build site
+        if: steps.commit_source.outputs.has_changes == 'true'
+        run: npm run build
+
+      - name: Deploy gh-pages
+        if: steps.commit_source.outputs.has_changes == 'true'
+        run: |
+          commit_info=`git describe --all --always --long`
+          deploy_branch=gh-pages
+          cd docs/.vuepress/dist
+          git config --global init.defaultBranch $deploy_branch
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "auto deploy, $commit_info"
+          git remote add origin https://github-actions[bot]:${{secrets.GITHUB_TOKEN}}@github.com/${{ github.repository }}.git
+          git push origin HEAD:$deploy_branch --force

@@ -21,8 +21,10 @@ module.exports = (options, ctx) => {
   // base路径
   base = siteConfig.base || ''
 
-  // 自动设置front matter
-  setFrontmatter(sourceDir, themeConfig)
+  // 默认跳过全量 frontmatter 扫描，按需通过脚本手动执行。
+  if (process.env.VDOING_AUTO_FRONTMATTER === 'true') {
+    setFrontmatter(sourceDir, themeConfig)
+  }
 
   // 自动生成结构化侧边栏
   const sidebar = themeConfig.sidebar

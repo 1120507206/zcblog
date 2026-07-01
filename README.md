@@ -71,3 +71,19 @@ npm run dev # or yarn dev
 [MIT](https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE)
 
 Copyright (c) 2019-present Evan Xu
+
+## Development Notes
+
+Daily `dev` / `build` now skips the full frontmatter scan and runtime sidebar generation by default to reduce compile time.
+
+`npm run dev` and `npm run build` will regenerate the cached sidebar automatically before starting.
+
+```bash
+npm run gen:sidebar
+npm run gen:frontmatter
+npm run ai:daily
+```
+
+- Run `npm run gen:sidebar` after adding, moving, or renaming docs.
+- Run `npm run gen:frontmatter` when you need to batch-fill frontmatter again.
+- Run `npm run ai:daily` to manually generate one AI news post using the current feed source.

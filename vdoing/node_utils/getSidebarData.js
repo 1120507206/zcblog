@@ -140,6 +140,10 @@ function mapTocToSidebar(root, collapsable, prefix = '') {
 
     order = parseInt(order, 10);
     if (isNaN(order) || order < 0) {
+      // 纯资源目录不参与侧边栏生成，避免无意义告警。
+      if (isDir && !hasOrderedMarkdown(file)) {
+        return;
+      }
       log(chalk.yellow(`warning: 该文件 "${file}" 序号出错，请填写正确的序号`))
       return;
     }
@@ -182,4 +186,19 @@ function mapTocToSidebar(root, collapsable, prefix = '') {
     sidebar,
     catalogueData
   };
+}
+
+function hasOrderedMarkdown(dir) {
+  const entries = fs.readdirSync(dir);
+
+  return entries.some(name => {
+    const fullPath = path.resolve(dir, name);
+    const stat = fs.statSync(fullPath);
+
+    if (stat.isDirectory()) {
+      return hasOrderedMarkdown(fullPath);
+    }
+
+    return /^\d+\..+\.md$/.test(name);
+  });
 }

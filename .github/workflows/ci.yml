@@ -17,7 +17,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [18.x]
+        node-version: [20.x]
 
     steps:
       - name: Checkout # 步骤1
@@ -26,6 +26,7 @@ jobs:
         uses: actions/setup-node@v6 # 作用：安装nodejs
         with:
           node-version: ${{ matrix.node-version }} # 版本
+          cache: npm
       - name: Build-and-deploy # 步骤3
         run: |
           remote_addr=`git remote get-url --push origin`
@@ -33,8 +34,8 @@ jobs:
           user_name=`git log -1 --pretty=format:'%an'`
           user_email=`git log -1 --pretty=format:'%ae'`
           deploy_branch=gh-pages
-          yarn
-          yarn build
+          npm ci
+          npm run build
           cd docs/.vuepress/dist
           git config --global init.defaultBranch $deploy_branch
           git init

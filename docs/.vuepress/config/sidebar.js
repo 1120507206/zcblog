@@ -382,6 +382,26 @@ module.exports = {
           "05.ai大模型/01.ai大模型相关.md",
           "ai大模型相关",
           "/pages/ea602c/"
+        ],
+        [
+          "05.ai大模型/02.ScarfBench- Benchmarking AI Agents for Enterpris.md",
+          "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "/pages/ai-mr1h8zsy/"
+        ],
+        [
+          "05.ai大模型/03.千问.md",
+          "千问",
+          "/pages/ai-mr1hdold/"
+        ],
+        [
+          "05.ai大模型/04.AI工具集官网 - 1000+ AI工具集合，国内外AI工具集导航大全.md",
+          "AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全",
+          "/pages/ai-mr1hhb4j/"
+        ],
+        [
+          "05.ai大模型/05.203.8亿，AI视频最大单笔融资，即将诞生.md",
+          "203.8亿，AI视频最大单笔融资，即将诞生",
+          "/pages/ai-mr315a3y/"
         ]
       ]
     }
@@ -791,7 +811,7 @@ module.exports = {
     ],
     [
       "08.测试名字.md",
-      "测试名字",
+      "测试文件",
       "/pages/a75110/"
     ],
     [

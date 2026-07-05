@@ -412,6 +412,11 @@ module.exports = {
           "05.ai大模型/07.偷藏3个月，Anthropic删除识别“中国AI”的隐藏代码，官方回应：这只是一次实验，我们早想.md",
           "偷藏3个月，Anthropic删除识别“中国AI”的隐藏代码，官方回应：这只是一次实验，我们早想删了",
           "/pages/ai-mr5v59lp/"
+        ],
+        [
+          "05.ai大模型/08.赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲.md",
+          "赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲",
+          "/pages/ai-mr7bdnkc/"
         ]
       ]
     }

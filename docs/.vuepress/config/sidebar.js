@@ -417,6 +417,11 @@ module.exports = {
           "05.ai大模型/08.赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲.md",
           "赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲",
           "/pages/ai-mr7bdnkc/"
+        ],
+        [
+          "05.ai大模型/09.AI工具箱官网 - 3000 + 免费 AI 工具集合 - AI软件一站式导航网站.md",
+          "AI工具箱官网 | 3000 + 免费 AI 工具集合 | AI软件一站式导航网站",
+          "/pages/ai-mr8r9uhs/"
         ]
       ]
     }

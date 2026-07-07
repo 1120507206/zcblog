@@ -125,14 +125,25 @@
         <template
           v-else-if="!homeData.postList || homeData.postList === 'detailed'"
         >
-          <PostList :currentPage="currentPage" :perPage="perPage" />
-          <Pagination
-            :total="total"
-            :perPage="perPage"
-            :currentPage="currentPage"
-            @getCurrentPage="handlePagination"
-            v-show="Math.ceil(total / perPage) > 1"
-          />
+          <div class="home-posts-layout">
+            <div class="home-posts-layout__news">
+              <DailyNewsPanel />
+            </div>
+            <div class="home-posts-layout__main">
+              <PostList
+                :currentPage="currentPage"
+                :perPage="perPage"
+                :excludeTags="homeExcludedTags"
+              />
+              <Pagination
+                :total="total"
+                :perPage="perPage"
+                :currentPage="currentPage"
+                @getCurrentPage="handlePagination"
+                v-show="Math.ceil(total / perPage) > 1"
+              />
+            </div>
+          </div>
         </template>
 
         <Content class="theme-vdoing-content custom card-box" />
@@ -174,8 +185,11 @@ import Pagination from '@theme/components/Pagination'
 import BloggerBar from '@theme/components/BloggerBar'
 import CategoriesBar from '@theme/components/CategoriesBar'
 import TagsBar from '@theme/components/TagsBar'
+import DailyNewsPanel from '@theme/components/DailyNewsPanel'
+import { excludePostsByTags } from '@theme/util/postData'
 
 const MOBILE_DESKTOP_BREAKPOINT = 720 // refer to config.styl
+const HOME_EXCLUDED_TAGS = ['AI资讯']
 
 BScroll.use(Slide)
 
@@ -238,12 +252,18 @@ export default {
       return {
         link: this.homeData.actionLink,
         text: this.homeData.actionText
-      };
+      }
+    },
+    homeExcludedTags() {
+      return HOME_EXCLUDED_TAGS
+    },
+    filteredHomePosts() {
+      return excludePostsByTags(this.$sortPosts, this.homeExcludedTags)
     }
   },
-  components: { NavLink, MainLayout, PostList, UpdateArticle, BloggerBar, CategoriesBar, TagsBar, Pagination },
+  components: { NavLink, MainLayout, PostList, UpdateArticle, BloggerBar, CategoriesBar, TagsBar, Pagination, DailyNewsPanel },
   created() {
-    this.total = this.$sortPosts.length
+    this.total = this.filteredHomePosts.length
   },
   beforeMount() {
     this.isMQMobile = window.innerWidth < MOBILE_DESKTOP_BREAKPOINT ? true : false; // vupress在打包时不能在beforeCreate(),created()访问浏览器api（如window）
@@ -287,6 +307,16 @@ export default {
           this.init()
         }, 0)
       }
+    },
+    filteredHomePosts: {
+      handler(posts) {
+        this.total = posts.length
+        const totalPages = Math.max(1, Math.ceil(posts.length / this.perPage))
+        if (this.currentPage > totalPages) {
+          this.currentPage = totalPages
+        }
+      },
+      immediate: true
     }
   },
   methods: {
@@ -470,7 +500,20 @@ export default {
       margin-top: ($navbarHeight + 0.9rem)
   .main-wrapper
     margin-top 2rem
+    max-width 1240px
     .main-left
+      .home-posts-layout
+        display flex
+        align-items flex-start
+        gap 1.4rem
+        .home-posts-layout__news
+          width 320px
+          flex 0 0 320px
+          .card-box
+            margin-bottom 0
+        .home-posts-layout__main
+          min-width 0
+          flex 1 1 auto
       .card-box
         margin-bottom 2rem
       .pagination
@@ -516,6 +559,14 @@ export default {
       .banner-conent
         .features
           display none !important
+    .main-wrapper
+      .main-left
+        .home-posts-layout
+          display block
+          .home-posts-layout__news
+            width 100%
+            .card-box
+              margin-bottom 2rem
 // 419px以下
 @media (max-width $MQMobileNarrow)
   .home-wrapper

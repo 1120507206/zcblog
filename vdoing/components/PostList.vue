@@ -84,6 +84,8 @@
 </template>
 
 <script>
+import { excludePostsByTags } from '@theme/util/postData'
+
 export default {
   props: {
     category: {
@@ -101,6 +103,10 @@ export default {
     perPage: {
       type: Number,
       default: 10
+    },
+    excludeTags: {
+      type: Array,
+      default: () => []
     }
   },
   data() {
@@ -135,6 +141,9 @@ export default {
     },
     tag() {
       this.setPosts()
+    },
+    excludeTags() {
+      this.setPosts()
     }
   },
   methods: {
@@ -151,6 +160,7 @@ export default {
         posts = this.$sortPosts
       }
 
+      posts = excludePostsByTags(posts, this.excludeTags)
       this.sortPosts = posts.slice((currentPage - 1) * perPage, currentPage * perPage)
     },
     // getElementToPageTop(el) {

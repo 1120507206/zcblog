@@ -106,3 +106,35 @@ export function categoriesAndTags (groupPosts) {
     tags: tagsArr
   }
 }
+
+/**
+ * 按标签筛选文章
+ * @param {Array} posts 文章数据
+ * @param {Array} tags 标签列表
+ */
+export function filterPostsByTags (posts, tags = []) {
+  if (!Array.isArray(posts) || !tags.length) {
+    return posts || []
+  }
+
+  return posts.filter(post => {
+    const postTags = post.frontmatter && post.frontmatter.tags
+    return Array.isArray(postTags) && postTags.some(tag => tags.includes(tag))
+  })
+}
+
+/**
+ * 排除指定标签的文章
+ * @param {Array} posts 文章数据
+ * @param {Array} tags 标签列表
+ */
+export function excludePostsByTags (posts, tags = []) {
+  if (!Array.isArray(posts) || !tags.length) {
+    return posts || []
+  }
+
+  return posts.filter(post => {
+    const postTags = post.frontmatter && post.frontmatter.tags
+    return !(Array.isArray(postTags) && postTags.some(tag => tags.includes(tag)))
+  })
+}

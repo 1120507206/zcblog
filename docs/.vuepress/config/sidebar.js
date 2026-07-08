@@ -427,6 +427,11 @@ module.exports = {
           "05.ai大模型/10.AI 砍掉的第一批大厂人：高薪，高绩效，高P｜深氪.md",
           "AI 砍掉的第一批大厂人：高薪，高绩效，高P｜深氪",
           "/pages/ai-mra5z7zx/"
+        ],
+        [
+          "05.ai大模型/11.揭秘字节 Seedance：全球 AI 的第二个好生意 - 深氪.md",
+          "揭秘字节 Seedance：全球 AI 的第二个好生意 | 深氪",
+          "/pages/ai-mrbk7ezb/"
         ]
       ]
     }

@@ -432,6 +432,11 @@ module.exports = {
           "05.ai大模型/11.揭秘字节 Seedance：全球 AI 的第二个好生意 - 深氪.md",
           "揭秘字节 Seedance：全球 AI 的第二个好生意 | 深氪",
           "/pages/ai-mrbk7ezb/"
+        ],
+        [
+          "05.ai大模型/12.团灭，大厂集体下架AI聊天机器人.md",
+          "团灭，大厂集体下架AI聊天机器人",
+          "/pages/ai-mrd0upqo/"
         ]
       ]
     }

@@ -457,6 +457,11 @@ module.exports = {
           "05.ai大模型/16.为啥越来越多的公司发现AI不能替代人工？.md",
           "为啥越来越多的公司发现AI不能替代人工？",
           "/pages/ai-mripyugu/"
+        ],
+        [
+          "05.ai大模型/17.AI批量造App，也在批量埋雷.md",
+          "AI批量造App，也在批量埋雷",
+          "/pages/ai-mrk486ld/"
         ]
       ]
     }

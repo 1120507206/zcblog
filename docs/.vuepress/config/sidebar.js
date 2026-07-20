@@ -487,6 +487,11 @@ module.exports = {
           "05.ai大模型/22.门票炒到 3000 元的 WAIC，我们找到了 AI 真正的创新.md",
           "门票炒到 3000 元的 WAIC，我们找到了 AI 真正的创新",
           "/pages/ai-mrrabwgg/"
+        ],
+        [
+          "05.ai大模型/23.AI泡沫，最多破一半.md",
+          "AI泡沫，最多破一半",
+          "/pages/ai-mrsq9z0g/"
         ]
       ]
     }

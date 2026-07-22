@@ -497,6 +497,11 @@ module.exports = {
           "05.ai大模型/24.900 万副 AI 眼镜连夜「上锁」，就因为一颗小白灯.md",
           "900 万副 AI 眼镜连夜「上锁」，就因为一颗小白灯",
           "/pages/ai-mru4yueg/"
+        ],
+        [
+          "05.ai大模型/25.OpenAI - Research & Deployment.md",
+          "【AI资讯】国内AI媒体OpenAI动态速览（2026-07-22）",
+          "/pages/ai-mrvkgumh/"
         ]
       ]
     }

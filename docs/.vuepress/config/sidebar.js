@@ -502,6 +502,11 @@ module.exports = {
           "05.ai大模型/25.OpenAI - Research & Deployment.md",
           "【AI资讯】国内AI媒体OpenAI动态速览（2026-07-22）",
           "/pages/ai-mrvkgumh/"
+        ],
+        [
+          "05.ai大模型/26.谷歌Gemini 4开跑了，一夜三连发.md",
+          "谷歌Gemini 4开跑了，一夜三连发",
+          "/pages/ai-mrwzu5m2/"
         ]
       ]
     }

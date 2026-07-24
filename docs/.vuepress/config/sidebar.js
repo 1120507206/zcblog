@@ -507,6 +507,11 @@ module.exports = {
           "05.ai大模型/26.谷歌Gemini 4开跑了，一夜三连发.md",
           "谷歌Gemini 4开跑了，一夜三连发",
           "/pages/ai-mrwzu5m2/"
+        ],
+        [
+          "05.ai大模型/27.为什么现在游戏对AI更重要了.md",
+          "为什么现在游戏对AI更重要了",
+          "/pages/ai-mryf84ag/"
         ]
       ]
     }

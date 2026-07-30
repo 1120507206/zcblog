@@ -537,6 +537,11 @@ module.exports = {
           "05.ai大模型/32.AI越用越顺手，但人们的批判性思维正在退化.md",
           "AI越用越顺手，但人们的批判性思维正在退化",
           "/pages/ai-ms5k28fg/"
+        ],
+        [
+          "05.ai大模型/33.突发！全球千人联名逼AI刹车，OpenAI、Anthropic带头签.md",
+          "突发！全球千人联名逼AI刹车，OpenAI、Anthropic带头签",
+          "/pages/ai-ms6z8cm6/"
         ]
       ]
     }

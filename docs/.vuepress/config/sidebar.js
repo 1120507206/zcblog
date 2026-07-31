@@ -542,6 +542,11 @@ module.exports = {
           "05.ai大模型/33.突发！全球千人联名逼AI刹车，OpenAI、Anthropic带头签.md",
           "突发！全球千人联名逼AI刹车，OpenAI、Anthropic带头签",
           "/pages/ai-ms6z8cm6/"
+        ],
+        [
+          "05.ai大模型/34.贾扬清再创业，造了一支AI军团，让GLM-5.2提速534%.md",
+          "贾扬清再创业，造了一支AI军团，让GLM-5.2提速534%",
+          "/pages/ai-ms8fln9a/"
         ]
       ]
     }

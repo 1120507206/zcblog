@@ -562,6 +562,11 @@ module.exports = {
           "05.ai大模型/37.突发！OpenAI下一代AI攻克10项菲尔兹奖级难题.md",
           "突发！OpenAI下一代AI攻克10项菲尔兹奖级难题",
           "/pages/ai-mscq6npg/"
+        ],
+        [
+          "05.ai大模型/38.DeepSeek 给大模型划出的「斩杀线」，斩的到底是什么.md",
+          "DeepSeek 给大模型划出的「斩杀线」，斩的到底是什么",
+          "/pages/ai-mse4pvr7/"
         ]
       ]
     }

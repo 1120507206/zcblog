@@ -567,6 +567,11 @@ module.exports = {
           "05.ai大模型/38.DeepSeek 给大模型划出的「斩杀线」，斩的到底是什么.md",
           "DeepSeek 给大模型划出的「斩杀线」，斩的到底是什么",
           "/pages/ai-mse4pvr7/"
+        ],
+        [
+          "05.ai大模型/39.阿里字节腾讯，为AI办公拼了.md",
+          "阿里字节腾讯，为AI办公拼了",
+          "/pages/ai-msfjz7jr/"
         ]
       ]
     }

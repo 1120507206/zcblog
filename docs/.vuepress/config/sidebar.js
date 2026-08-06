@@ -572,6 +572,11 @@ module.exports = {
           "05.ai大模型/39.阿里字节腾讯，为AI办公拼了.md",
           "阿里字节腾讯，为AI办公拼了",
           "/pages/ai-msfjz7jr/"
+        ],
+        [
+          "05.ai大模型/40.8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南.md",
+          "8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南",
+          "/pages/ai-msgzlbtd/"
         ]
       ]
     }

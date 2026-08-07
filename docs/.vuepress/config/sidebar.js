@@ -577,6 +577,11 @@ module.exports = {
           "05.ai大模型/40.8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南.md",
           "8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南",
           "/pages/ai-msgzlbtd/"
+        ],
+        [
+          "05.ai大模型/41.OpenAI 首款AI 硬件曝光；DeepSeek 拟上调API 服务定价；曝字节拟训练超5 万.md",
+          "OpenAI 首款AI 硬件曝光；DeepSeek 拟上调API 服务定价；曝字节拟训练超5 万亿超大参数模型｜极客早知道",
+          "/pages/ai-msiehk5t/"
         ]
       ]
     }

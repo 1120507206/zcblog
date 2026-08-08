@@ -582,6 +582,11 @@ module.exports = {
           "05.ai大模型/41.OpenAI 首款AI 硬件曝光；DeepSeek 拟上调API 服务定价；曝字节拟训练超5 万.md",
           "OpenAI 首款AI 硬件曝光；DeepSeek 拟上调API 服务定价；曝字节拟训练超5 万亿超大参数模型｜极客早知道",
           "/pages/ai-msiehk5t/"
+        ],
+        [
+          "05.ai大模型/42.Google Gemini.md",
+          "【AI资讯】国内AI媒体发布最新大模型动态（2026-08-08）",
+          "/pages/ai-msjs26xc/"
         ]
       ]
     }

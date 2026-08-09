@@ -587,6 +587,11 @@ module.exports = {
           "05.ai大模型/42.Google Gemini.md",
           "【AI资讯】国内AI媒体发布最新大模型动态（2026-08-08）",
           "/pages/ai-msjs26xc/"
+        ],
+        [
+          "05.ai大模型/43.小红书不想批量制造「AI超创」.md",
+          "小红书不想批量制造「AI超创」",
+          "/pages/ai-msl7r1bx/"
         ]
       ]
     }

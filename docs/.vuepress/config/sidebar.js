@@ -612,6 +612,11 @@ module.exports = {
           "05.ai大模型/47.AI副业在闲鱼上火了.md",
           "AI副业在闲鱼上火了",
           "/pages/ai-msqye0ve/"
+        ],
+        [
+          "05.ai大模型/48.打工人的办公三件套，被 WorkBuddy 用 AI 重做了.md",
+          "打工人的办公三件套，被 WorkBuddy 用 AI 重做了",
+          "/pages/ai-mssdqli8/"
         ]
       ]
     }

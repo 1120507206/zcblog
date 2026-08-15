@@ -617,6 +617,11 @@ module.exports = {
           "05.ai大模型/48.打工人的办公三件套，被 WorkBuddy 用 AI 重做了.md",
           "打工人的办公三件套，被 WorkBuddy 用 AI 重做了",
           "/pages/ai-mssdqli8/"
+        ],
+        [
+          "05.ai大模型/49.打工人的办公三件套，被 WorkBuddy 用 AI 重做了.md",
+          "打工人的办公三件套，被 WorkBuddy 用 AI 重做了",
+          "/pages/ai-mstqn0ot/"
         ]
       ]
     }

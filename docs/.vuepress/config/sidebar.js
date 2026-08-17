@@ -627,6 +627,11 @@ module.exports = {
           "05.ai大模型/50.“老登”AI，精髓是作秀.md",
           "“老登”AI，精髓是作秀",
           "/pages/ai-msv6cz6y/"
+        ],
+        [
+          "05.ai大模型/51.大厂校招狂卷AI，应届生懵了.md",
+          "大厂校招狂卷AI，应届生懵了",
+          "/pages/ai-mswlqa1a/"
         ]
       ]
     }

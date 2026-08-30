@@ -692,6 +692,11 @@ module.exports = {
           "05.ai大模型/63.连连AI以Agent作为枢纽，重构人与人之间的连接范式.md",
           "连连AI以Agent作为枢纽，重构人与人之间的连接范式",
           "/pages/ai-mte2dpzv/"
+        ],
+        [
+          "05.ai大模型/64.ChatGPT- Chat, Work, Create & Code with AI.md",
+          "【AI资讯】国内AI媒体GPT动态速览（2026-08-30）",
+          "/pages/ai-mtfeq1ym/"
         ]
       ]
     }

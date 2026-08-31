@@ -697,6 +697,11 @@ module.exports = {
           "05.ai大模型/64.ChatGPT- Chat, Work, Create & Code with AI.md",
           "【AI资讯】国内AI媒体GPT动态速览（2026-08-30）",
           "/pages/ai-mtfeq1ym/"
+        ],
+        [
+          "05.ai大模型/65.AI文明涌现，OpenAI智能体自建「三代帝国」，暗网越狱反向接管母公司.md",
+          "AI文明涌现，OpenAI智能体自建「三代帝国」，暗网越狱反向接管母公司",
+          "/pages/ai-mtguwyu2/"
         ]
       ]
     }

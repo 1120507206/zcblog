@@ -707,6 +707,11 @@ module.exports = {
           "05.ai大模型/66.AI最恐怖的预言，一步步成真了.md",
           "AI最恐怖的预言，一步步成真了",
           "/pages/ai-mti962fh/"
+        ],
+        [
+          "05.ai大模型/67.Kimi AI 官网.md",
+          "Kimi AI 官网",
+          "/pages/ai-mtjnb5lz/"
         ]
       ]
     }

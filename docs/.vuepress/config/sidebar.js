@@ -712,6 +712,11 @@ module.exports = {
           "05.ai大模型/67.Kimi AI 官网.md",
           "Kimi AI 官网",
           "/pages/ai-mtjnb5lz/"
+        ],
+        [
+          "05.ai大模型/68.首部AI长剧《后西游记》，带飞A股影视板块涨停潮.md",
+          "首部AI长剧《后西游记》，带飞A股影视板块涨停潮",
+          "/pages/ai-mtl2wy70/"
         ]
       ]
     }

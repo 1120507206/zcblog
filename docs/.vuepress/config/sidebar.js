@@ -722,6 +722,11 @@ module.exports = {
           "05.ai大模型/69.Google AI.md",
           "【AI资讯】国内AI媒体发布最新大模型动态（2026-09-04）",
           "/pages/ai-mtmi94dj/"
+        ],
+        [
+          "05.ai大模型/70.万元AI研学营，正在批量收割家长.md",
+          "万元AI研学营，正在批量收割家长",
+          "/pages/ai-mtnx7fiy/"
         ]
       ]
     }

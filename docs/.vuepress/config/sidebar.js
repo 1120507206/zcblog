@@ -727,6 +727,11 @@ module.exports = {
           "05.ai大模型/70.万元AI研学营，正在批量收割家长.md",
           "万元AI研学营，正在批量收割家长",
           "/pages/ai-mtnx7fiy/"
+        ],
+        [
+          "05.ai大模型/71.大模型蒸馏时代结束：Fable 5.1改写API，彻底切断蒸馏后路.md",
+          "大模型蒸馏时代结束：Fable 5.1改写API，彻底切断蒸馏后路",
+          "/pages/ai-mtpd5ttm/"
         ]
       ]
     }

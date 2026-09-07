@@ -732,6 +732,11 @@ module.exports = {
           "05.ai大模型/71.大模型蒸馏时代结束：Fable 5.1改写API，彻底切断蒸馏后路.md",
           "大模型蒸馏时代结束：Fable 5.1改写API，彻底切断蒸馏后路",
           "/pages/ai-mtpd5ttm/"
+        ],
+        [
+          "05.ai大模型/72.刚刚，OpenAI「AI研究实习生」正式入职，黄仁勋：AGI已来.md",
+          "刚刚，OpenAI「AI研究实习生」正式入职，黄仁勋：AGI已来",
+          "/pages/ai-mtqsxh4t/"
         ]
       ]
     }

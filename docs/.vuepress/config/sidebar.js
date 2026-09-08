@@ -737,6 +737,11 @@ module.exports = {
           "05.ai大模型/72.刚刚，OpenAI「AI研究实习生」正式入职，黄仁勋：AGI已来.md",
           "刚刚，OpenAI「AI研究实习生」正式入职，黄仁勋：AGI已来",
           "/pages/ai-mtqsxh4t/"
+        ],
+        [
+          "05.ai大模型/73.DeepSeek一口气扩招150人，0个AI研究岗.md",
+          "DeepSeek一口气扩招150人，0个AI研究岗",
+          "/pages/ai-mts8ckqs/"
         ]
       ]
     }

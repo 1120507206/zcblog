@@ -742,6 +742,11 @@ module.exports = {
           "05.ai大模型/73.DeepSeek一口气扩招150人，0个AI研究岗.md",
           "DeepSeek一口气扩招150人，0个AI研究岗",
           "/pages/ai-mts8ckqs/"
+        ],
+        [
+          "05.ai大模型/74.韩国启动全民AI计划.md",
+          "韩国启动全民AI计划",
+          "/pages/ai-mtto1jdh/"
         ]
       ]
     }

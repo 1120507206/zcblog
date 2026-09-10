@@ -747,6 +747,11 @@ module.exports = {
           "05.ai大模型/74.韩国启动全民AI计划.md",
           "韩国启动全民AI计划",
           "/pages/ai-mtto1jdh/"
+        ],
+        [
+          "05.ai大模型/75.长安与阿里云拓展AI大模型合作空间.md",
+          "长安与阿里云拓展AI大模型合作空间",
+          "/pages/ai-mtv36aci/"
         ]
       ]
     }

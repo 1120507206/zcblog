@@ -752,6 +752,11 @@ module.exports = {
           "05.ai大模型/75.长安与阿里云拓展AI大模型合作空间.md",
           "长安与阿里云拓展AI大模型合作空间",
           "/pages/ai-mtv36aci/"
+        ],
+        [
+          "05.ai大模型/76.苹果把iPhone折起来，顺手补交了AI答卷.md",
+          "苹果把iPhone折起来，顺手补交了AI答卷",
+          "/pages/ai-mtwimevq/"
         ]
       ]
     }

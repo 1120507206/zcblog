@@ -757,6 +757,11 @@ module.exports = {
           "05.ai大模型/76.苹果把iPhone折起来，顺手补交了AI答卷.md",
           "苹果把iPhone折起来，顺手补交了AI答卷",
           "/pages/ai-mtwimevq/"
+        ],
+        [
+          "05.ai大模型/77.英伟达震撼开源Harness，AI自己爆改AI.md",
+          "英伟达震撼开源Harness，AI自己爆改AI",
+          "/pages/ai-mtxxokv9/"
         ]
       ]
     }

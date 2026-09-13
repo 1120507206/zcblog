@@ -762,6 +762,11 @@ module.exports = {
           "05.ai大模型/77.英伟达震撼开源Harness，AI自己爆改AI.md",
           "英伟达震撼开源Harness，AI自己爆改AI",
           "/pages/ai-mtxxokv9/"
+        ],
+        [
+          "05.ai大模型/78.“全华班”打造的AI程序员，估值480亿美元.md",
+          "“全华班”打造的AI程序员，估值480亿美元",
+          "/pages/ai-mtzdm7i6/"
         ]
       ]
     }

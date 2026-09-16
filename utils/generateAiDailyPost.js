@@ -198,7 +198,7 @@ function padIndex(index) {
 }
 
 function sanitizeTitle(title) {
-  return title.replace(/[\\/:*?"<>|]/g, '-').replace(/\s+/g, ' ').trim()
+  return title.replace(/[\\/:*?"<>|%]/g, '-').replace(/\s+/g, ' ').trim()
 }
 
 function truncateFileName(title) {

@@ -782,6 +782,11 @@ module.exports = {
           "05.ai大模型/81.刚写完V4.1主算子就要“转业”？DeepSeek资深算子工程师深夜独白.md",
           "刚写完V4.1主算子就要“转业”？DeepSeek资深算子工程师深夜独白",
           "/pages/ai-mu3ny4mf/"
+        ],
+        [
+          "05.ai大模型/82.中国AI使用比例过半.md",
+          "中国AI使用比例过半",
+          "/pages/ai-mu53lp2n/"
         ]
       ]
     }

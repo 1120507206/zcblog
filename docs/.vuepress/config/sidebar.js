@@ -787,6 +787,11 @@ module.exports = {
           "05.ai大模型/82.中国AI使用比例过半.md",
           "中国AI使用比例过半",
           "/pages/ai-mu53lp2n/"
+        ],
+        [
+          "05.ai大模型/83.震撼，谷歌破解了RSI？AI靠「做梦」学会无限进化.md",
+          "震撼，谷歌破解了RSI？AI靠「做梦」学会无限进化",
+          "/pages/ai-mu6ils8r/"
         ]
       ]
     }

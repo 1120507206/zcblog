@@ -797,6 +797,11 @@ module.exports = {
           "05.ai大模型/84.曾被AI误杀的赛道，大反攻了.md",
           "曾被AI误杀的赛道，大反攻了",
           "/pages/ai-mu7xvdik/"
+        ],
+        [
+          "05.ai大模型/85.AI办公给互联网巨头出了道难题.md",
+          "AI办公给互联网巨头出了道难题",
+          "/pages/ai-mu9dsyhp/"
         ]
       ]
     }

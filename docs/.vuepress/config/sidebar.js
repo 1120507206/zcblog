@@ -802,6 +802,11 @@ module.exports = {
           "05.ai大模型/85.AI办公给互联网巨头出了道难题.md",
           "AI办公给互联网巨头出了道难题",
           "/pages/ai-mu9dsyhp/"
+        ],
+        [
+          "05.ai大模型/86.Anthropic 大瓜被扒出：「AI 灭世」背后，居然是一门生意？.md",
+          "Anthropic 大瓜被扒出：「AI 灭世」背后，居然是一门生意？",
+          "/pages/ai-muatk3v2/"
         ]
       ]
     }

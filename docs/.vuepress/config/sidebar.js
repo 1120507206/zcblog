@@ -807,6 +807,11 @@ module.exports = {
           "05.ai大模型/86.Anthropic 大瓜被扒出：「AI 灭世」背后，居然是一门生意？.md",
           "Anthropic 大瓜被扒出：「AI 灭世」背后，居然是一门生意？",
           "/pages/ai-muatk3v2/"
+        ],
+        [
+          "05.ai大模型/87.AI正在制造App过剩时代.md",
+          "AI正在制造App过剩时代",
+          "/pages/ai-muc8wltt/"
         ]
       ]
     }

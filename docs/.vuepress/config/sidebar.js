@@ -812,6 +812,11 @@ module.exports = {
           "05.ai大模型/87.AI正在制造App过剩时代.md",
           "AI正在制造App过剩时代",
           "/pages/ai-muc8wltt/"
+        ],
+        [
+          "05.ai大模型/88.AI长剧首次上星，股价连续涨停，芒果TV“用内容做AI”的AIGC逆向实验｜专访.md",
+          "AI长剧首次上星，股价连续涨停，芒果TV“用内容做AI”的AIGC逆向实验｜专访",
+          "/pages/ai-mudnrr7i/"
         ]
       ]
     }

@@ -817,6 +817,11 @@ module.exports = {
           "05.ai大模型/88.AI长剧首次上星，股价连续涨停，芒果TV“用内容做AI”的AIGC逆向实验｜专访.md",
           "AI长剧首次上星，股价连续涨停，芒果TV“用内容做AI”的AIGC逆向实验｜专访",
           "/pages/ai-mudnrr7i/"
+        ],
+        [
+          "05.ai大模型/89.干翻ChatGpt，又一AI王炸引爆全球.md",
+          "干翻ChatGpt，又一AI王炸引爆全球",
+          "/pages/ai-muf3t457/"
         ]
       ]
     }

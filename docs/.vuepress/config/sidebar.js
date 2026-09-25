@@ -822,6 +822,11 @@ module.exports = {
           "05.ai大模型/89.干翻ChatGpt，又一AI王炸引爆全球.md",
           "干翻ChatGpt，又一AI王炸引爆全球",
           "/pages/ai-muf3t457/"
+        ],
+        [
+          "05.ai大模型/90.力压GPT-6，中国物理AI黑马登顶第一.md",
+          "力压GPT-6，中国物理AI黑马登顶第一",
+          "/pages/ai-mugj6iyn/"
         ]
       ]
     }

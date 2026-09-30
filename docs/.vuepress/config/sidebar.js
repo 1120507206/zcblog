@@ -847,6 +847,11 @@ module.exports = {
           "05.ai大模型/94.单月收入破千万，AI应用公司智灵新境完成数千万元天使轮融资｜36氪首发.md",
           "单月收入破千万，AI应用公司智灵新境完成数千万元天使轮融资｜36氪首发",
           "/pages/ai-mumamyvf/"
+        ],
+        [
+          "05.ai大模型/95.OpenAI 推出个人AI 智能体dots；传豆包将推个人AI 产品「Spell」；SpaceX.md",
+          "OpenAI 推出个人AI 智能体dots；传豆包将推个人AI 产品「Spell」；SpaceX 发射星舰成功入轨| 极客早知道",
+          "/pages/ai-munpkjfh/"
         ]
       ]
     }

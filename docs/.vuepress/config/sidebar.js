@@ -852,6 +852,11 @@ module.exports = {
           "05.ai大模型/95.OpenAI 推出个人AI 智能体dots；传豆包将推个人AI 产品「Spell」；SpaceX.md",
           "OpenAI 推出个人AI 智能体dots；传豆包将推个人AI 产品「Spell」；SpaceX 发射星舰成功入轨| 极客早知道",
           "/pages/ai-munpkjfh/"
+        ],
+        [
+          "05.ai大模型/96.从绿叶到鲜花，AI 推理如何为 NAND“逆天改命”？.md",
+          "从绿叶到鲜花，AI 推理如何为 NAND“逆天改命”？",
+          "/pages/ai-mup63m13/"
         ]
       ]
     }

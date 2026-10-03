@@ -862,6 +862,11 @@ module.exports = {
           "05.ai大模型/97.华泰证券：AI链放量推动韩国出口继续攀升-36氪.md",
           "华泰证券：AI链放量推动韩国出口继续攀升-36氪",
           "/pages/ai-muql28pr/"
+        ],
+        [
+          "05.ai大模型/98.推荐一个全新的Benchmark：看过高斯的AI，会梦到爱因斯坦么.md",
+          "推荐一个全新的Benchmark：看过高斯的AI，会梦到爱因斯坦么",
+          "/pages/ai-murzampa/"
         ]
       ]
     }

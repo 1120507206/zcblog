@@ -877,6 +877,11 @@ module.exports = {
           "05.ai大模型/100.AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了.md",
           "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了",
           "/pages/ai-muuvaa7t/"
+        ],
+        [
+          "05.ai大模型/101.马斯克跟AI分手？SpaceXAI又改名了.md",
+          "马斯克跟AI分手？SpaceXAI又改名了",
+          "/pages/ai-muwc03p7/"
         ]
       ]
     }

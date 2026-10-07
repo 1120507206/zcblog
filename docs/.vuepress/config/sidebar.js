@@ -882,6 +882,11 @@ module.exports = {
           "05.ai大模型/101.马斯克跟AI分手？SpaceXAI又改名了.md",
           "马斯克跟AI分手？SpaceXAI又改名了",
           "/pages/ai-muwc03p7/"
+        ],
+        [
+          "05.ai大模型/102.AI几年内或超越所有人类，Claude核心研究员预测.md",
+          "AI几年内或超越所有人类，Claude核心研究员预测",
+          "/pages/ai-muxqs90r/"
         ]
       ]
     }

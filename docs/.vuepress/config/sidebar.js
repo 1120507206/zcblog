@@ -887,6 +887,11 @@ module.exports = {
           "05.ai大模型/102.AI几年内或超越所有人类，Claude核心研究员预测.md",
           "AI几年内或超越所有人类，Claude核心研究员预测",
           "/pages/ai-muxqs90r/"
+        ],
+        [
+          "05.ai大模型/103.突发，Claude拿下概率论「圣杯」，AI跨过菲尔兹奖终点线.md",
+          "突发，Claude拿下概率论「圣杯」，AI跨过菲尔兹奖终点线",
+          "/pages/ai-muz6k706/"
         ]
       ]
     }

@@ -932,6 +932,11 @@ module.exports = {
           "05.ai大模型/111.AI帮我约了五个陌生人一起喝酒.md",
           "AI帮我约了五个陌生人一起喝酒",
           "/pages/ai-mvaioxu2/"
+        ],
+        [
+          "05.ai大模型/112.AI把笔记本变成了爱马仕.md",
+          "AI把笔记本变成了爱马仕",
+          "/pages/ai-mvbxxqaj/"
         ]
       ]
     }

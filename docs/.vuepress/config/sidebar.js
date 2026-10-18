@@ -937,6 +937,11 @@ module.exports = {
           "05.ai大模型/112.AI把笔记本变成了爱马仕.md",
           "AI把笔记本变成了爱马仕",
           "/pages/ai-mvbxxqaj/"
+        ],
+        [
+          "05.ai大模型/113.动辄千集的AI短剧，越长越赚钱？.md",
+          "动辄千集的AI短剧，越长越赚钱？",
+          "/pages/ai-mvddjq58/"
         ]
       ]
     }

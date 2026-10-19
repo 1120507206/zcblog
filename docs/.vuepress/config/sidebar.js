@@ -942,6 +942,11 @@ module.exports = {
           "05.ai大模型/113.动辄千集的AI短剧，越长越赚钱？.md",
           "动辄千集的AI短剧，越长越赚钱？",
           "/pages/ai-mvddjq58/"
+        ],
+        [
+          "05.ai大模型/114.刚刚，Anthropic宣布奇点已至！AI或把美国GDP推上44万亿美元.md",
+          "刚刚，Anthropic宣布奇点已至！AI或把美国GDP推上44万亿美元",
+          "/pages/ai-mvetha74/"
         ]
       ]
     }

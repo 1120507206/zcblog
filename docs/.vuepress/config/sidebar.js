@@ -947,6 +947,11 @@ module.exports = {
           "05.ai大模型/114.刚刚，Anthropic宣布奇点已至！AI或把美国GDP推上44万亿美元.md",
           "刚刚，Anthropic宣布奇点已至！AI或把美国GDP推上44万亿美元",
           "/pages/ai-mvetha74/"
+        ],
+        [
+          "05.ai大模型/115.重磅！OpenAI之后，AI再破广义黎曼猜想.md",
+          "重磅！OpenAI之后，AI再破广义黎曼猜想",
+          "/pages/ai-mvg91b71/"
         ]
       ]
     }

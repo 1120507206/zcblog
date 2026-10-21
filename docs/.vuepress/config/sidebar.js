@@ -952,6 +952,11 @@ module.exports = {
           "05.ai大模型/115.重磅！OpenAI之后，AI再破广义黎曼猜想.md",
           "重磅！OpenAI之后，AI再破广义黎曼猜想",
           "/pages/ai-mvg91b71/"
+        ],
+        [
+          "05.ai大模型/116.AI员工泡沫破裂，Meta紧急叫停裁员计划，小扎：还是人类好用.md",
+          "AI员工泡沫破裂，Meta紧急叫停裁员计划，小扎：还是人类好用",
+          "/pages/ai-mvhohhke/"
         ]
       ]
     }

@@ -987,6 +987,11 @@ module.exports = {
           "05.ai大模型/122.WorkBuddy断层第一：腾讯拿下办公AI，百度掉队.md",
           "WorkBuddy断层第一：腾讯拿下办公AI，百度掉队",
           "/pages/ai-mvq9ns1x/"
+        ],
+        [
+          "05.ai大模型/123.刚刚，Reddit最大开源社区全面封杀AI，Linux和Python被除名.md",
+          "刚刚，Reddit最大开源社区全面封杀AI，Linux和Python被除名",
+          "/pages/ai-mvrqhb2o/"
         ]
       ]
     }

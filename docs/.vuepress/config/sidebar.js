@@ -992,6 +992,11 @@ module.exports = {
           "05.ai大模型/123.刚刚，Reddit最大开源社区全面封杀AI，Linux和Python被除名.md",
           "刚刚，Reddit最大开源社区全面封杀AI，Linux和Python被除名",
           "/pages/ai-mvrqhb2o/"
+        ],
+        [
+          "05.ai大模型/124.王的猜想，被AI一夜通关.md",
+          "王的猜想，被AI一夜通关",
+          "/pages/ai-mvt6azyz/"
         ]
       ]
     }

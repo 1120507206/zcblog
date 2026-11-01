@@ -1007,6 +1007,11 @@ module.exports = {
           "05.ai大模型/126.AI 混进学术圈，人类第一反应是“叫家长”.md",
           "AI 混进学术圈，人类第一反应是“叫家长”",
           "/pages/ai-mvw0ujoi/"
+        ],
+        [
+          "05.ai大模型/127.AI“烧钱叙事”遇冷？OpenAI融资目标砍掉100亿！.md",
+          "AI“烧钱叙事”遇冷？OpenAI融资目标砍掉100亿！",
+          "/pages/ai-mvxheqf1/"
         ]
       ]
     }

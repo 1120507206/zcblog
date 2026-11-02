@@ -1012,6 +1012,11 @@ module.exports = {
           "05.ai大模型/127.AI“烧钱叙事”遇冷？OpenAI融资目标砍掉100亿！.md",
           "AI“烧钱叙事”遇冷？OpenAI融资目标砍掉100亿！",
           "/pages/ai-mvxheqf1/"
+        ],
+        [
+          "05.ai大模型/128.赫拉利深度访谈：真正的 AI 危机来了.md",
+          "赫拉利深度访谈：真正的 AI 危机来了",
+          "/pages/ai-mvywst1u/"
         ]
       ]
     }

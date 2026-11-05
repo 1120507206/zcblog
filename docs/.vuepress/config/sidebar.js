@@ -1027,6 +1027,11 @@ module.exports = {
           "05.ai大模型/130.英伟达-谷歌-英特尔接连出手，物理AI打响基础设施之争.md",
           "英伟达/谷歌/英特尔接连出手，物理AI打响基础设施之争",
           "/pages/ai-mw1rwsh2/"
+        ],
+        [
+          "05.ai大模型/131.辟谣，Anthropic IPO没撤回，但万亿AI泡沫缩水让华尔街怕了.md",
+          "辟谣，Anthropic IPO没撤回，但万亿AI泡沫缩水让华尔街怕了",
+          "/pages/ai-mw38efi2/"
         ]
       ]
     }

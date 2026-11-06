@@ -1032,6 +1032,11 @@ module.exports = {
           "05.ai大模型/131.辟谣，Anthropic IPO没撤回，但万亿AI泡沫缩水让华尔街怕了.md",
           "辟谣，Anthropic IPO没撤回，但万亿AI泡沫缩水让华尔街怕了",
           "/pages/ai-mw38efi2/"
+        ],
+        [
+          "05.ai大模型/132.Anthropic微微发力，AI中转站的天就要塌了？.md",
+          "Anthropic微微发力，AI中转站的天就要塌了？",
+          "/pages/ai-mw4nolxt/"
         ]
       ]
     }

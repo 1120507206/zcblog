@@ -1037,6 +1037,11 @@ module.exports = {
           "05.ai大模型/132.Anthropic微微发力，AI中转站的天就要塌了？.md",
           "Anthropic微微发力，AI中转站的天就要塌了？",
           "/pages/ai-mw4nolxt/"
+        ],
+        [
+          "05.ai大模型/133.AI应用加速渗透，内容产业迎价值重估.md",
+          "AI应用加速渗透，内容产业迎价值重估",
+          "/pages/ai-mw61fuw6/"
         ]
       ]
     }

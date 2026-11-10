@@ -1052,6 +1052,11 @@ module.exports = {
           "05.ai大模型/135.早报｜曝特努斯要求加快AI研发-Win 11优化8GB内存电脑流畅度-马斯克：SpaceX明年1.md",
           "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
           "/pages/ai-mw8xyrgf/"
+        ],
+        [
+          "05.ai大模型/136.早报｜苹果国行AI备案新增iPad和笔记本-Claude Fable 5.2发布，价格降20--.md",
+          "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+          "/pages/ai-mwaeaq1n/"
         ]
       ]
     }

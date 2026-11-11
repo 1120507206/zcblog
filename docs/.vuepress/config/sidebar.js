@@ -1057,6 +1057,11 @@ module.exports = {
           "05.ai大模型/136.早报｜苹果国行AI备案新增iPad和笔记本-Claude Fable 5.2发布，价格降20--.md",
           "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
           "/pages/ai-mwaeaq1n/"
+        ],
+        [
+          "05.ai大模型/137.突发，特朗普自曝警告某AI巨头CEO：准备坐牢吧.md",
+          "突发，特朗普自曝警告某AI巨头CEO：准备坐牢吧",
+          "/pages/ai-mwbslsij/"
         ]
       ]
     }

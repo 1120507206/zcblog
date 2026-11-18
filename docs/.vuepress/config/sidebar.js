@@ -1092,6 +1092,11 @@ module.exports = {
           "05.ai大模型/143.AI正在杀死游戏行业吗？- 游戏风向标.md",
           "AI正在杀死游戏行业吗？| 游戏风向标",
           "/pages/ai-mwkg1y33/"
+        ],
+        [
+          "05.ai大模型/144.CXO玩家，落座AI牌桌.md",
+          "CXO玩家，落座AI牌桌",
+          "/pages/ai-mwlu76y4/"
         ]
       ]
     }

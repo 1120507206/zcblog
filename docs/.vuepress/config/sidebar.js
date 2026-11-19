@@ -1097,6 +1097,11 @@ module.exports = {
           "05.ai大模型/144.CXO玩家，落座AI牌桌.md",
           "CXO玩家，落座AI牌桌",
           "/pages/ai-mwlu76y4/"
+        ],
+        [
+          "05.ai大模型/145.奥特曼给「AI造AI」踩刹车，方向盘必须握在人类手中.md",
+          "奥特曼给「AI造AI」踩刹车，方向盘必须握在人类手中",
+          "/pages/ai-mwn9vvwz/"
         ]
       ]
     }

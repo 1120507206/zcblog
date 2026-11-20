@@ -1102,6 +1102,11 @@ module.exports = {
           "05.ai大模型/145.奥特曼给「AI造AI」踩刹车，方向盘必须握在人类手中.md",
           "奥特曼给「AI造AI」踩刹车，方向盘必须握在人类手中",
           "/pages/ai-mwn9vvwz/"
+        ],
+        [
+          "05.ai大模型/146.AI Agent 元年，苹果是最后一个入局的巨头.md",
+          "AI Agent 元年，苹果是最后一个入局的巨头",
+          "/pages/ai-mwoop2ec/"
         ]
       ]
     }
